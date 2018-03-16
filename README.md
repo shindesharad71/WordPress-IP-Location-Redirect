@@ -2,4 +2,4 @@
 
 This plugin detects country of user and redirect to particular country website.
 
-_Specal thanks to **Abhishek Dhapare** for the contribution._
+_Specal thanks to [**Abhishek Dhapare**](https://github.com/abhishekdhapare9392) for the contribution._
