@@ -12,7 +12,7 @@ Version: 1.0.0v
 Author URI: http://sharadshinde.in/
 */
 
-function get_client_ip() {
+function init_redirection() {
     
     ?>
     
@@ -40,6 +40,6 @@ function get_client_ip() {
     <?php
 }
 
-add_action( 'init', 'get_client_ip');
+add_action( 'init', 'init_redirection');
 
 ?>
